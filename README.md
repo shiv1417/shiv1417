@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 📫 How to reach me **shivshankars9422gmail.com**
+- 📫 How to reach me **shivshankars942@gmail.com**
 
 - ⚡ Fun fact **Seriously Funny!!**
 

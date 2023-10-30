@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shiv Shankar Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiv1417&label=Profile%20views&color=0e75b6&style=flat" alt="shiv1417" /> </p>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **C# & .NET**
 
 - 📫 How to reach me **shivshankars942@gmail.com**
 
